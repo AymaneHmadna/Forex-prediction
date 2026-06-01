@@ -1,0 +1,2 @@
+MAE_price,MAE_pips,RMSE_price,RMSE_pips,MAPE_pct,R2,Direction_Acc_pct,Hit_1pip_pct,Hit_5pips_pct,Median_pips,Max_pips,Bias_pips
+0.000118,1.18,0.000159,1.59,0.0102,0.9914,22.05,73.49,99.53,0.71,42.61,-0.71
