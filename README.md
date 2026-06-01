@@ -36,3 +36,4 @@ The model was trained on five years of historical data and achieved the followin
 - `live_producer.py`: script that fetches live prices from yahoo finance and publishes them to the kafka topic.
 - `spark_predict.py`: script that consumes the live kafka feed and performs real time predictions.
 - `docker-compose.yml`: configuration to start the apache kafka service using docker.
+- `pyrightconfig.json`: configuration file for pyright static type checking.
