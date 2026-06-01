@@ -7,6 +7,7 @@
 ![pandas](https://img.shields.io/badge/pandas-data_manipulation-purple?style=flat-square&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-numerical_computing-blue?style=flat-square&logo=numpy&logoColor=white)
 ![apache kafka](https://img.shields.io/badge/apache_kafka-live_streaming-black?style=flat-square&logo=apachekafka&logoColor=white)
+![apache spark](https://img.shields.io/badge/apache_spark-data_processing-orange?style=flat-square&logo=apachespark&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-container_deployment-blue?style=flat-square&logo=docker&logoColor=white)
 ![yfinance](https://img.shields.io/badge/yfinance-market_data_api-brightgreen?style=flat-square&logo=yahoo&logoColor=white)
 ## live prediction
