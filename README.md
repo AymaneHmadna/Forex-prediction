@@ -9,7 +9,8 @@
 ![apache kafka](https://img.shields.io/badge/apache_kafka-live_streaming-black?style=flat-square&logo=apachekafka&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-container_deployment-blue?style=flat-square&logo=docker&logoColor=white)
 ![yfinance](https://img.shields.io/badge/yfinance-market_data_api-brightgreen?style=flat-square&logo=yahoo&logoColor=white)
-
+## live prediction
+![live predictions](screen_prediction.png)
 This project implements a real time price forecasting pipeline for the eur/usd currency pair. It combines a hybrid deep learning model with a live streaming data infrastructure.
 
 You can read the full project report here: [project report](rapport_pfe.pdf).
