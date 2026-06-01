@@ -13,7 +13,7 @@
 ![live predictions](screen_prediction.png)
 This project implements a real time price forecasting pipeline for the eur/usd currency pair. It combines a hybrid deep learning model with a live streaming data infrastructure.
 
-You can read the full project report here: [project report](rapport_pfe.pdf).
+You can read the full project report here: [project report](rapport.pdf).
 
 ## project overview
 The system is built around a hybrid machine learning model that combines a multi head attention mechanism with a bidirectional gated recurrent unit. This model predicts the price variation of the next minute based on the prices of the previous sixty minutes. The live data flows continuously from yahoo finance through an apache kafka pipeline.
